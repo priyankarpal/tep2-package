@@ -1,6 +1,6 @@
 {
   "name": "tep2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "tep2": "index.js"
@@ -8,6 +8,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyankarpal/tep2-package"
+  },
+  "homepage": "https://github.com/priyankarpal/tep2-package",
   "keywords": [
     "etp2",
     "prisma with postgresql",
